@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-ant-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-examples-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-minicluster-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-test-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/学习资料/java编程/项目/Hadoop从入门到上手工作视频/传智播客hadoop课堂工具和笔记/hadoop课程全部软件/hadoop-1.1.2/hadoop-tools-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
